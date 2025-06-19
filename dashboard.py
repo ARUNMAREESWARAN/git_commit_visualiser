@@ -54,4 +54,4 @@ st.pyplot(fig2)
 
 # --- Footer ---
 st.markdown("---")
-st.markdown("📊 Built with Streamlit by Dharshini G 💡")
+st.markdown("📊 Built with Streamlit by ARUN MAREESWARAN💡")
